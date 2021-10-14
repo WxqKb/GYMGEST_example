@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GYMGEST_example</string>
+    <string name="start_auth">开始授权</string>
+    <string name="auth_webview_title">数据授权</string>
+</resources>
